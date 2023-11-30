@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/webzee/blog/static/css/main.970eb286.css",
-    "main.js": "/webzee/blog/static/js/main.aaf0ddad.js",
-    "static/js/787.ede2a764.chunk.js": "/webzee/blog/static/js/787.ede2a764.chunk.js",
-    "static/media/Home-page.jpg": "/webzee/blog/static/media/Home-page.94837b58dd8383cb7835.jpg",
-    "index.html": "/webzee/blog/index.html",
-    "main.970eb286.css.map": "/webzee/blog/static/css/main.970eb286.css.map",
-    "main.aaf0ddad.js.map": "/webzee/blog/static/js/main.aaf0ddad.js.map",
-    "787.ede2a764.chunk.js.map": "/webzee/blog/static/js/787.ede2a764.chunk.js.map"
+    "main.css": "/webzee/static/css/main.30de09db.css",
+    "main.js": "/webzee/static/js/main.2e4f39a7.js",
+    "static/js/787.ede2a764.chunk.js": "/webzee/static/js/787.ede2a764.chunk.js",
+    "static/media/Home-page.jpg": "/webzee/static/media/Home-page.94837b58dd8383cb7835.jpg",
+    "index.html": "/webzee/index.html",
+    "main.30de09db.css.map": "/webzee/static/css/main.30de09db.css.map",
+    "main.2e4f39a7.js.map": "/webzee/static/js/main.2e4f39a7.js.map",
+    "787.ede2a764.chunk.js.map": "/webzee/static/js/787.ede2a764.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.970eb286.css",
-    "static/js/main.aaf0ddad.js"
+    "static/css/main.30de09db.css",
+    "static/js/main.2e4f39a7.js"
   ]
 }
