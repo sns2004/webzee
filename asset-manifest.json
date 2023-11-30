@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/webzee/static/css/main.953a4a74.css",
-    "main.js": "/webzee/static/js/main.e5b6f4b0.js",
+    "main.js": "/webzee/static/js/main.35cc4b2b.js",
     "static/js/787.ede2a764.chunk.js": "/webzee/static/js/787.ede2a764.chunk.js",
     "static/media/Home-page.jpg": "/webzee/static/media/Home-page.94837b58dd8383cb7835.jpg",
     "index.html": "/webzee/index.html",
     "main.953a4a74.css.map": "/webzee/static/css/main.953a4a74.css.map",
-    "main.e5b6f4b0.js.map": "/webzee/static/js/main.e5b6f4b0.js.map",
+    "main.35cc4b2b.js.map": "/webzee/static/js/main.35cc4b2b.js.map",
     "787.ede2a764.chunk.js.map": "/webzee/static/js/787.ede2a764.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.953a4a74.css",
-    "static/js/main.e5b6f4b0.js"
+    "static/js/main.35cc4b2b.js"
   ]
 }
